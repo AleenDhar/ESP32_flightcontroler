@@ -665,7 +665,6 @@ void loop(void) {
   mot4.write(map(MotorInput4, 1000, 2000, 0, 180));
 
 
-// yoo
 
 
 // voltage= (analogRead(36)/4096)*12.46*(35.9/36);
